@@ -1,0 +1,42 @@
+bytecode – байткод
+call by value – извикване по стойност
+concatenation – слепване
+deprecated – остарял
+dictionary – речник
+difference (set theory) – разлика
+environment – обкръжение
+error – грешка
+escape sequence – екранираща последователност
+escaping – екраниране
+exception – изключение
+exception handling – обработка на изключение (-я)
+immutable – неизменяем
+indent – отстъп
+intersection (set theory) – сечение
+item – елемент
+list – списък
+list comprehension – обхващане на списък
+lambda form – ламбда-форма
+module – модул
+multiple assignment – множествено присвояване
+mutable – изменяем
+namespace – пространство на имена
+parser – граматичен анализатор
+prompt – промпт
+raise (exception) – предизвикване (на изключение)
+sequence – редица
+sequence unpacking – разпакетиране на редица
+set – множество
+script – скрипт
+shallow copy – плитко копие
+short-circuit operator – пестелив оператор
+slice notation – нотация за изрязване
+slicing – изрязване
+statement – конструкция
+string – символен низ
+symmetric difference (set theory) – симетрична разлика
+syntax error – синтактична грешка
+tuple – комплект
+tuple packing – пакетиране на комплект
+unhandled exception – необработено изключение
+union (set theory) – обединение
